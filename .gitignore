@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/CoreIdentity.API/bin/Debug/netcoreapp3.1
+/CoreIdentity.API/Logs
+/CoreIdentity.API/obj

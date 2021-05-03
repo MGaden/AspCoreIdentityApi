@@ -1,0 +1,41 @@
+{
+  "claims": [
+    {
+      "Node": "Users",
+      "Items": [
+        {
+          "Name": "Manage Users",
+          "Value": "Users:Manage"
+        }
+      ]
+    },
+    {
+      "Node": "Roles",
+      "Items": [
+        {
+          "Name": "Manage Roles",
+          "Value": "Roles:Manage"
+        }
+      ]
+    },
+    {
+      "Node": "UserRoles",
+      "Items": [
+        {
+          "Name": "Manage User Roles",
+          "Value": "UserRoles:Manage"
+        }
+      ]
+    },
+    {
+      "Node": "RoleClaims",
+      "Items": [
+        {
+          "Name": "Manage Roles Claims",
+          "Value": "RoleClaims:Manage"
+        }
+      ]
+    }
+  ]
+}
+
